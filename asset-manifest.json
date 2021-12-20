@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/chat-app-mostafakadry/static/css/main.4d00384a.chunk.css",
-    "main.js": "/chat-app-mostafakadry/static/js/main.33246405.chunk.js",
-    "main.js.map": "/chat-app-mostafakadry/static/js/main.33246405.chunk.js.map",
+    "main.css": "/chat-app-mostafakadry/static/css/main.7ffe5781.chunk.css",
+    "main.js": "/chat-app-mostafakadry/static/js/main.32d6753a.chunk.js",
+    "main.js.map": "/chat-app-mostafakadry/static/js/main.32d6753a.chunk.js.map",
     "runtime-main.js": "/chat-app-mostafakadry/static/js/runtime-main.54d43bce.js",
     "runtime-main.js.map": "/chat-app-mostafakadry/static/js/runtime-main.54d43bce.js.map",
     "static/css/2.f244372c.chunk.css": "/chat-app-mostafakadry/static/css/2.f244372c.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.b000269e.chunk.js.map": "/chat-app-mostafakadry/static/js/2.b000269e.chunk.js.map",
     "index.html": "/chat-app-mostafakadry/index.html",
     "static/css/2.f244372c.chunk.css.map": "/chat-app-mostafakadry/static/css/2.f244372c.chunk.css.map",
-    "static/css/main.4d00384a.chunk.css.map": "/chat-app-mostafakadry/static/css/main.4d00384a.chunk.css.map",
+    "static/css/main.7ffe5781.chunk.css.map": "/chat-app-mostafakadry/static/css/main.7ffe5781.chunk.css.map",
     "static/js/2.b000269e.chunk.js.LICENSE.txt": "/chat-app-mostafakadry/static/js/2.b000269e.chunk.js.LICENSE.txt",
     "static/media/all.min.css": "/chat-app-mostafakadry/static/media/fa-solid-900.eeccf4f6.woff"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.54d43bce.js",
     "static/css/2.f244372c.chunk.css",
     "static/js/2.b000269e.chunk.js",
-    "static/css/main.4d00384a.chunk.css",
-    "static/js/main.33246405.chunk.js"
+    "static/css/main.7ffe5781.chunk.css",
+    "static/js/main.32d6753a.chunk.js"
   ]
 }
